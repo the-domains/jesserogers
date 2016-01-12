@@ -1,0 +1,28 @@
+name: jesserogers
+favicon: null
+layout_spectrum: 0.2234215724747628
+typography_spectrum: 0.6416186934802681
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.32646230584941804
+  lightness: 0.6152197679039091
+  saturation: 0.9899435574188828
+  rhythmicContrast: 0.14778254507109523
+purpose: []
